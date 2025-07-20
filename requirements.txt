@@ -1,0 +1,9 @@
+pandas
+ydata-profiling
+sweetviz
+seaborn
+matplotlib
+missingno
+scikit-learn
+scipy
+numpy

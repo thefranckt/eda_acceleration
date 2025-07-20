@@ -1,0 +1,16 @@
+ville    population    superficie    pib_par_habitant    chomage    temperature_moyenne    pollution
+Paris    2200000    105    42000    7.2    12.5    45
+Lyon    515000    48    38000    8.1    13.2    32
+Marseille    868000    241    28000    9.8    16.1    38
+Toulouse    479000    118    35000    7.9    14.3    28
+Nice    340000    71    31000    8.5    15.8    35
+Nantes    314000    65    33000    7.4    12.9    25
+Montpellier    290000    57    29000    9.2    15.2    30
+Strasbourg    280000    78    34000    8.3    11.8    33
+Bordeaux    254000    49    36000    7.6    13.7    27
+Lille    232000    34    30000    9.5    11.2    40
+Rennes    217000    50    32000    7.8    12.1    22
+Reims    183000    47    28000    8.9    11.5    31
+Saint_Etienne    172000    80    25000    10.2    12.8    36
+Toulon    171000    43    27000    9.1    16.5    42
+Grenoble    158000    18    31000    8.7    11.9    29

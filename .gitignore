@@ -1,10 +1,44 @@
 
+# Fichiers de logs et temporaires
+*.log
+*.tmp
+*.temp
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 *.pkl
 *.ipynb_checkpoints/
+.Python
 .env
-.DS_Store
+.venv
+env/
 venv/
+
+# Fichiers HTML de rapports (trop volumineux - gardons seulement quelques exemples)
+*rapport*.html
+*test*.html
+*eda_report*.html
+!MON_PREMIER_TEST.html
+
+# Dossiers de rapports générés (trop volumineux)
+Reports_*/
+test_reports/
+test_visualizations/
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sauvegarde
+*.bak
+*.backup
 
 

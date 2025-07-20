@@ -1,0 +1,16 @@
+produit;prix;quantite_vendue;cout_production;categorie;satisfaction_client;retours
+Laptop;899.99;250;650.00;Electronique;4.2;12
+Smartphone;599.99;450;420.00;Electronique;4.5;8
+Tablette;349.99;180;280.00;Electronique;4.1;15
+Casque;79.99;320;35.00;Audio;4.3;22
+Souris;24.99;500;12.00;Accessoires;4.0;18
+Clavier;69.99;280;40.00;Accessoires;4.4;9
+Moniteur;299.99;150;220.00;Electronique;4.2;11
+Webcam;49.99;200;25.00;Accessoires;3.9;25
+Enceinte;129.99;160;80.00;Audio;4.1;14
+Imprimante;199.99;120;150.00;Bureautique;3.8;30
+Disque_SSD;89.99;350;60.00;Stockage;4.6;5
+RAM;119.99;220;85.00;Composants;4.3;7
+Carte_graphique;399.99;95;280.00;Composants;4.4;6
+Processeur;249.99;130;180.00;Composants;4.5;4
+Cable_USB;9.99;800;3.50;Accessoires;3.7;35

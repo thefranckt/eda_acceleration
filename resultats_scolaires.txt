@@ -1,0 +1,16 @@
+etudiant|note_maths|note_francais|note_sciences|note_histoire|moyenne_generale|classe|redoublement
+Alice_Martin|16.5|14.2|18.0|13.8|15.6|1ere_S|Non
+Bob_Durand|12.3|15.6|11.8|14.2|13.5|1ere_ES|Non
+Claire_Petit|18.2|16.8|17.5|15.9|17.1|1ere_S|Non
+David_Moreau|8.5|10.2|9.8|11.1|9.9|1ere_L|Oui
+Emma_Laurent|15.8|17.2|14.5|16.3|15.9|1ere_L|Non
+Felix_Simon|11.2|9.8|12.5|10.6|11.0|1ere_ES|Non
+Grace_Michel|19.1|18.5|19.8|17.2|18.6|1ere_S|Non
+Hugo_Leroy|13.8|12.5|15.2|14.6|14.0|1ere_S|Non
+Iris_Roux|14.5|16.8|13.2|15.9|15.1|1ere_ES|Non
+Jules_Garcia|7.8|8.9|8.2|9.5|8.6|1ere_L|Oui
+Kim_Lopez|16.9|15.4|17.8|14.7|16.2|1ere_S|Non
+Lea_Bernard|12.8|14.5|11.9|13.7|13.2|1ere_ES|Non
+Marc_Fournier|9.2|11.8|10.5|12.3|10.9|1ere_L|Non
+Nina_Rodriguez|17.5|18.9|16.2|17.8|17.6|1ere_L|Non
+Oscar_Dubois|13.5|12.1|14.8|13.2|13.4|1ere_S|Non
